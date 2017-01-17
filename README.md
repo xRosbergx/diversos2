@@ -5,4 +5,4 @@
   
   
   
-  *<strong>By<strong\>Php do zero ao profissional. PS: adaptações Rosberg.*
+  *<strong> By <strong\>Php do zero ao profissional. PS: adaptações Rosberg.*
